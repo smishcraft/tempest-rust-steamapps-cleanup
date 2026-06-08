@@ -27,3 +27,4 @@ The included egg uses this placeholder image:
 ghcr.io/YOUR_ORG/tempest-rust-steamapps-cleanup:latest
 
 Replace `YOUR_ORG` with your real GHCR org/user, or change the egg image to your registry path.
+# build trigger
